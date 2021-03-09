@@ -1,0 +1,23 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/message/message",
+    "pages/user/user",
+    "pages/issue/issue",
+    "pages/concern/concern",
+    "pages/collect/collect",
+    "pages/search/search",
+    "pages/fans/fans",
+    "pages/login/login",
+    "pages/feedback/feedback", 
+    "pages/auth/auth"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
