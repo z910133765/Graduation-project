@@ -12,6 +12,7 @@
     "pages/feedback/feedback", 
     "pages/auth/auth"
   ],
+  
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
